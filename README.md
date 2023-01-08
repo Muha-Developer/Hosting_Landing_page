@@ -1,2 +1,5 @@
-# Hosting_Landing_page
-Hosting_Landing_page
+# Replicate the Following Output
+
+`Assests are Provided!`
+
+![Project 2](./Hosting%20Landing%20Page.png)
